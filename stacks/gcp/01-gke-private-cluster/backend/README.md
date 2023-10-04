@@ -1,5 +1,4 @@
-# Terraform stack for ZenDesk ticket 124730
-[IP space exhausted](https://doitintl.zendesk.com/agent/tickets/124730)
+# Terraform stack for 01 GKE Private Cluster
 
 ## Description
 Backend stack with application infrastructure.

@@ -4,8 +4,7 @@
 project_id    = "migueld-playground"
 region        = "europe-west6"
 zone          = "europe-west6-a"
-ticket_number = "124730"
-
+stack_name    = "01-backend"
 
 #############################################################################
 # IAP proxy                                                                 #

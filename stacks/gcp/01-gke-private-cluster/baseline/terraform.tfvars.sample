@@ -9,7 +9,7 @@ stack_name    = "01-baseline"
 #############################################################################
 # VPC and subnets                                                           #
 #############################################################################
-vpc_name = "vpc-nap-test"
+vpc_name = "vpc-gke-private"
 vpc_subnets = [
   {
     subnet_name           = "subnet-gke-europe-west6"
