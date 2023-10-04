@@ -4,7 +4,7 @@
 Public code and IaC examples intended to serve as a base for your own purposes.
 They also provide backup material for some blogs when indicated.
 
-## WARNING
+## DISCLAIMER
 Except as represented in this agreement, all the code in this repository is provided ​“AS IS”. Other than as provided in this agreement, we make no other warranties, express or implied, and hereby disclaims all implied warranties, including any warranty of merchantability and warranty of fitness for a particular purpose.
 
 ## Prerequisites
@@ -15,7 +15,7 @@ Except as represented in this agreement, all the code in this repository is prov
 
 
 ## Terraform stacks
-Terraform stacks for tickets are normally split between _baseline_ (VPC and Networking) and _backend_ (Compute and Storage resources).
+Terraform stacks are normally split between _baseline_ (VPC and Networking) and _backend_ (Compute and Storage resources).
 
 When creating the stack for the ticket:
 1. First create the _baseline_ stack.
