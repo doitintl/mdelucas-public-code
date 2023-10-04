@@ -6,7 +6,7 @@ Backend stack with application infrastructure.
 ## Connection to private GKE control plane
 * Obtain credentials for GKE cluster.
 ```
-gcloud container clusters get-credentials gke-nap-test --zone europe-west6-a --internal-ip
+gcloud container clusters get-credentials gke-private-test --zone europe-west6-a --internal-ip
 ```
 
 * Start an IAP tunnel to tinyproxy service in IAP instance.
